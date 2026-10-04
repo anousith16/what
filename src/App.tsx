@@ -19,10 +19,10 @@ const FALLBACK_IMG =
 
 // ====== แก้ข้อมูลคำใบ้ตรงนี้ ======
 const clues: Clue[] = [
-  { id: 1, content: <>Anousith Khanatip<br />(Tor)</> },
-  { id: 2, content: "205Q0002/24" },
-  { id: 3, content: "3CS2" },
-  { id: 4, content: "ຄົນທີ່ຜົມສັ້ນໆ" },
+  { id: 1, content: <>White Apple<br />(12)</> },
+  { id: 2, content: "Q2" },
+  { id: 3, content: "ຄົນທີ່ໃຊ້ MacBook" },
+  { id: 4, content: "Short Hair" },
   {
     id: 5,
     content: (
